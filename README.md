@@ -15,6 +15,6 @@ Hey there! I'm Seifeldin, I'm mainly interested about embedded systems and digit
 ## Let's Connect! 🤝
 
 - LinkedIn: [seifeldin](https://linkedin.com/in/seifeldin)
-- Email: [Your Email Address](mailto:seifelshabshiri@aucegypt.edu)
+- Email: [seifelshabshiri@aucegypt.edu](mailto:seifelshabshiri@aucegypt.edu)
 
 Feel free to explore my repositories and connect with me! Thanks for visiting! 😊
