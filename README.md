@@ -10,8 +10,7 @@ Hey there! I'm Seifeldin, I'm mainly interested about embedded systems and digit
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seif2001&layout=compact&theme=radical)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Seif2001.Seif2001&left_color=green&right_color=red)
-
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=seif2001.seif2001)
 
 ## Let's Connect! 🤝
 
