@@ -6,8 +6,6 @@ Hey there! I'm Seifeldin, I'm mainly interested about embedded systems and digit
 
 ## GitHub Stats 📊
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seif2001&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seif2001&layout=compact&theme=radical)
 
 
